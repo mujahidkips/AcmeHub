@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "720185810617",
+    "firebase_url": "https://fir-aut-1a0b5.firebaseio.com",
+    "project_id": "fir-aut-1a0b5",
+    "storage_bucket": "fir-aut-1a0b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720185810617:android:9d33ec49fedfbea3",
+        "android_client_info": {
+          "package_name": "com.mujahidrasool.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720185810617-66hvu97te1jmf04fjf96lpv50cmte66f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mujahidrasool.firebase",
+            "certificate_hash": "0e265c7e3859216e3928eb3a5bff55bddef9c5e9"
+          }
+        },
+        {
+          "client_id": "720185810617-m5je7fks9ck600g5vfbpv31fv2e45ahf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaBXgbVj1LIDNZZifM8c_DJ8iPCzyy2IE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720185810617-m5je7fks9ck600g5vfbpv31fv2e45ahf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

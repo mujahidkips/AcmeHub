@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    android:gravity="center"
+    android:orientation="vertical">
+
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Enter Name"
+        android:layout_margin="15dp"
+        android:inputType="textPersonName"
+        android:textColorHint="#fff" />
+
+    <EditText
+        android:id="@+id/phno"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/pakistan"
+        android:ems="10"
+        android:layout_margin="15dp"
+        android:hint=" +92   Enter Phone Number"
+        android:inputType="textPersonName"
+        android:paddingLeft="10dp"
+        android:textColorHint="#fff" />
+
+
+    <Button
+        android:id="@+id/vcodeget"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_margin="20dp"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/loginnbtn"
+        android:textColor="#fff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="I need help to Login"
+        android:textColor="#fff"
+        />
+
+</LinearLayout>
